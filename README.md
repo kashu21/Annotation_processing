@@ -1,4 +1,4 @@
-# Annotation_procesing
+# Annotation_processing
 > Gain insights from the crowd-sourced annotations or data labelling.
 
 ## Table of Contents
@@ -29,15 +29,15 @@
 
 Instructions to install and setup one's local environment for the project.
 
-- Open a terminal.
+- Open a terminal in the project folder or browse to the project folder after launching it.
 - To install required dependencies, use command 
    `pip install -r requirement.txt`
 
 
 ## Usage
 - Once all the dependencies gets installed, the the program can be executed with command 
-`python Annotations_processing.py`
-- Make sure that the python file can be accessed within the same directory when executing.
+`python Annotations_processing.py` at the terminal.
+- Make sure that the python file `Annotations_processing.py` can be accessed within the same directory when executing.
 
 - It can also be executed using IDEs like Pycharm. Simply open the the project folder and run the `Annotations_processing.py` file after installing dependencies.
 
